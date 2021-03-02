@@ -33,5 +33,12 @@ Stampare a schermo una decina di dischi musicali (vedi screenshot) in due modi d
 
 **2^ MILESTONE** Attraverso l’utilizzo di AJAX: al caricamento della pagina ajax chiederà attraverso una chiamata i dischi a php e li stamperà.
 
+
+index.php => prima milestone\
+index.html => seconda milestone
+
+
 **Opzionale**:
-Attraverso un’altra chiamata ajax, filtrare gli album per genere
+Attraverso un’altra chiamata ajax, filtrare gli album per genere.
+indizio: $_GET
+
