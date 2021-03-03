@@ -11,3 +11,6 @@ print_r($dischi);
 // e stampare copertina, titolo e così via, come da screenshot.
 
 
+?>
+
+<a href="blog.php">blog</a>
